@@ -1,2 +1,2 @@
-# Hair-shop-inventory
-project-command-line-inventory-app
+# big buys groceries 
+
